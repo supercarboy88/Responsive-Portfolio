@@ -222,19 +222,19 @@ input[type=submit]{
 @media only screen and (max-width: 980px){
     .container{
         padding: 0 20px;
-        max-width: 768px;
+        max-width: 800px;
     }
     #main-container{
         padding-top: 130px;
     }
     .main-section{
-        max-width: 420px;
+        max-width: 800px;
     }
     .p-section{
-        width: 100%;
+        width: 40%;
     }
     .p-image{
-        width: 100%;
+        width: 50%;
         margin-bottom: 20px;
     }
 }
